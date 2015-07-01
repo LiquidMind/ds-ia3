@@ -1,0 +1,1244 @@
+05:20:20.389 NEW:0 >> Node UUID is: 85f03f89-7f56-43f2-ac97-8d92aeb38641
+05:20:20.391 NEW:0 >> Local address is: 169.254.193.255
+05:20:20.413 FLW:1 >> Sending ACTION_JOIN to IP: 224.0.0.2 and port: 2333
+05:20:20.439 FLW:1 >> S_NEW => S_FLW >> Timeout achieved
+05:20:20.450 FLW:1 >> Last heartbeat message: 41 ms ago
+05:20:21.003 FLW:1 >> Action ACTION_JOIN was received.
+05:20:21.004 FLW:1 >> New node with UUID c8b55454-c93c-46f3-b776-56b56c01f21a and IP 169.254.193.255 was discovered
+05:20:21.005 FLW:1 >> Action ACTION_JOIN was received.
+05:20:21.005 FLW:1 >> New node with UUID b683c1ed-64cc-4a52-9f06-e04424764c51 and IP 169.254.193.255 was discovered
+05:20:21.006 FLW:1 >> Action ACTION_JOIN was received.
+05:20:21.006 FLW:1 >> New node with UUID 19d1d002-3da5-476d-9aa1-eb816c794a7f and IP 169.254.193.255 was discovered
+05:20:21.726 FLW:1 >> Action ACTION_ELECTION was received.
+05:20:21.730 FLW:1 >> New node with UUID 294889d4-dc6b-4f8a-9423-02d123e61939 and IP 169.254.193.255 was discovered
+05:20:21.733 FLW:2 >> Sending ACTION_VOTE to UUID: 294889d4-dc6b-4f8a-9423-02d123e61939
+05:20:21.737 FLW:2 >> S_FLW => S_FLW >> Election request from the higher term #2.
+05:20:21.753 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:21.755 FLW:2 >> Last heartbeat message: 23 ms ago
+05:20:21.795 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:21.799 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:21.801 FLW:2 >> It took 2 consecutive elections to achieve consensus.
+05:20:21.803 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:21.832 FLW:2 >> Last heartbeat message: 33 ms ago
+05:20:21.846 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:21.847 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:21.847 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:21.853 FLW:2 >> Last heartbeat message: 6 ms ago
+05:20:22.308 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:22.310 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:22.313 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:22.317 FLW:2 >> Last heartbeat message: 7 ms ago
+05:20:22.807 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:22.809 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:22.816 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:22.821 FLW:2 >> Last heartbeat message: 12 ms ago
+05:20:23.309 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:23.312 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:23.316 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:23.319 FLW:2 >> Last heartbeat message: 7 ms ago
+05:20:23.809 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:23.811 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:23.816 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:23.816 FLW:2 >> Last heartbeat message: 5 ms ago
+05:20:24.309 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:24.313 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:24.314 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:24.316 FLW:2 >> Last heartbeat message: 3 ms ago
+05:20:24.810 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:24.813 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:24.819 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:24.821 FLW:2 >> Last heartbeat message: 8 ms ago
+05:20:25.313 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:25.318 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:25.326 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:25.327 FLW:2 >> Last heartbeat message: 9 ms ago
+05:20:25.821 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:25.823 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:25.827 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:25.840 FLW:2 >> Last heartbeat message: 17 ms ago
+05:20:26.321 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:26.328 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:26.340 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:26.344 FLW:2 >> Last heartbeat message: 16 ms ago
+05:20:26.821 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:26.827 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:26.834 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:26.844 FLW:2 >> Last heartbeat message: 17 ms ago
+05:20:27.325 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:27.329 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:27.332 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:27.341 FLW:2 >> Last heartbeat message: 12 ms ago
+05:20:27.830 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:27.833 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:27.835 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:27.848 FLW:2 >> Last heartbeat message: 15 ms ago
+05:20:28.327 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:28.334 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:28.337 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:28.344 FLW:2 >> Last heartbeat message: 10 ms ago
+05:20:28.830 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:28.834 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:28.834 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:28.835 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:29.340 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:29.346 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:29.349 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:29.369 FLW:2 >> Last heartbeat message: 23 ms ago
+05:20:29.837 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:29.840 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:29.850 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:29.854 FLW:2 >> Last heartbeat message: 14 ms ago
+05:20:30.363 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:30.365 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:30.366 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:30.375 FLW:2 >> Last heartbeat message: 10 ms ago
+05:20:30.864 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:30.866 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:30.873 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:30.873 FLW:2 >> Last heartbeat message: 7 ms ago
+05:20:31.362 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:31.365 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:31.366 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:31.366 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:31.885 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:31.904 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:31.910 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:31.922 FLW:2 >> Last heartbeat message: 18 ms ago
+05:20:32.391 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:32.393 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:32.399 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:32.405 FLW:2 >> Last heartbeat message: 12 ms ago
+05:20:32.891 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:32.896 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:32.897 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:32.899 FLW:2 >> Last heartbeat message: 4 ms ago
+05:20:33.397 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:33.403 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:33.404 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:33.415 FLW:2 >> Last heartbeat message: 12 ms ago
+05:20:33.894 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:33.900 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:33.903 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:33.912 FLW:2 >> Last heartbeat message: 12 ms ago
+05:20:34.400 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:34.403 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:34.404 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:34.408 FLW:2 >> Last heartbeat message: 5 ms ago
+05:20:34.898 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:34.901 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:34.904 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:34.909 FLW:2 >> Last heartbeat message: 8 ms ago
+05:20:35.402 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:35.406 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:35.407 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:35.408 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:35.906 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:35.912 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:35.914 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:35.914 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:36.411 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:36.413 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:36.415 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:36.415 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:36.916 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:36.921 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:36.922 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:36.934 FLW:2 >> Last heartbeat message: 13 ms ago
+05:20:37.408 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:37.413 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:37.414 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:37.414 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:37.923 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:37.930 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:37.931 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:37.932 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:38.419 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:38.424 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:38.425 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:38.425 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:38.921 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:38.935 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:38.938 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:38.939 FLW:2 >> Last heartbeat message: 5 ms ago
+05:20:39.435 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:39.437 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:39.438 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:39.439 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:39.933 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:39.935 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:39.936 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:39.937 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:40.432 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:40.436 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:40.436 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:40.437 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:40.938 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:40.942 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:40.945 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:40.947 FLW:2 >> Last heartbeat message: 5 ms ago
+05:20:41.440 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:41.444 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:41.445 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:41.445 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:41.941 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:41.945 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:41.947 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:41.959 FLW:2 >> Last heartbeat message: 14 ms ago
+05:20:42.449 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:42.451 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:42.460 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:42.460 FLW:2 >> Last heartbeat message: 9 ms ago
+05:20:42.952 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:42.954 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:42.957 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:42.960 FLW:2 >> Last heartbeat message: 5 ms ago
+05:20:43.459 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:43.469 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:43.470 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:43.470 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:43.967 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:43.979 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:43.985 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:43.985 FLW:2 >> Last heartbeat message: 6 ms ago
+05:20:44.468 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:44.480 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:44.486 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:44.489 FLW:2 >> Last heartbeat message: 9 ms ago
+05:20:44.971 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:44.972 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:44.973 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:44.973 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:45.477 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:45.481 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:45.481 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:45.482 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:45.986 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:45.989 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:45.990 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:45.991 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:46.488 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:46.489 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:46.489 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:46.490 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:46.987 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:46.989 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:46.993 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:46.993 FLW:2 >> Last heartbeat message: 4 ms ago
+05:20:47.493 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:47.496 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:47.496 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:47.503 FLW:2 >> Last heartbeat message: 7 ms ago
+05:20:47.997 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:48.002 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:48.002 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:48.002 FLW:2 >> Last heartbeat message: 0 ms ago
+05:20:48.506 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:48.509 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:48.511 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:48.519 FLW:2 >> Last heartbeat message: 10 ms ago
+05:20:49.009 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:49.013 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:49.014 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:49.015 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:49.512 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:49.518 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:49.520 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:49.544 FLW:2 >> Last heartbeat message: 26 ms ago
+05:20:50.023 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:50.033 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:50.043 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:50.044 FLW:2 >> Last heartbeat message: 11 ms ago
+05:20:50.519 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:50.525 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:50.526 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:50.527 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:51.023 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:51.045 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:51.047 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:51.048 FLW:2 >> Last heartbeat message: 3 ms ago
+05:20:51.531 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:51.536 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:51.536 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:51.537 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:52.032 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:52.040 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:52.052 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:52.056 FLW:2 >> Last heartbeat message: 16 ms ago
+05:20:52.530 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:52.537 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:52.539 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:52.544 FLW:2 >> Last heartbeat message: 7 ms ago
+05:20:53.030 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:53.037 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:53.038 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:53.040 FLW:2 >> Last heartbeat message: 3 ms ago
+05:20:53.529 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:53.533 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:53.535 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:53.535 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:54.033 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:54.043 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:54.043 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:54.044 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:54.533 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:54.539 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:54.549 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:54.550 FLW:2 >> Last heartbeat message: 11 ms ago
+05:20:55.036 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:55.041 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:55.042 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:55.042 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:55.547 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:55.549 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:55.553 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:55.553 FLW:2 >> Last heartbeat message: 4 ms ago
+05:20:56.048 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:56.053 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:56.054 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:56.054 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:56.553 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:56.555 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:56.557 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:56.559 FLW:2 >> Last heartbeat message: 4 ms ago
+05:20:57.065 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:57.066 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:57.066 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:57.066 FLW:2 >> Last heartbeat message: 0 ms ago
+05:20:57.563 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:57.564 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:57.565 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:57.565 FLW:2 >> Last heartbeat message: 1 ms ago
+05:20:58.064 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:58.073 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:58.074 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:58.075 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:58.568 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:58.569 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:58.573 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:58.573 FLW:2 >> Last heartbeat message: 4 ms ago
+05:20:59.071 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:59.074 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:59.075 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:59.076 FLW:2 >> Last heartbeat message: 2 ms ago
+05:20:59.570 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:20:59.575 FLW:2 >> Heartbeat from the current leader with term #2
+05:20:59.577 FLW:2 >> Thread for requests dispatch was interrupted
+05:20:59.577 FLW:2 >> Last heartbeat message: 2 ms ago
+05:21:00.074 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:21:00.076 FLW:2 >> Heartbeat from the current leader with term #2
+05:21:00.078 FLW:2 >> Thread for requests dispatch was interrupted
+05:21:00.078 FLW:2 >> Last heartbeat message: 2 ms ago
+05:21:00.578 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:21:00.595 FLW:2 >> Heartbeat from the current leader with term #2
+05:21:00.598 FLW:2 >> Thread for requests dispatch was interrupted
+05:21:00.599 FLW:2 >> Last heartbeat message: 4 ms ago
+05:21:01.082 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:21:01.085 FLW:2 >> Heartbeat from the current leader with term #2
+05:21:01.090 FLW:2 >> Thread for requests dispatch was interrupted
+05:21:01.090 FLW:2 >> Last heartbeat message: 5 ms ago
+05:21:01.585 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:21:01.587 FLW:2 >> Heartbeat from the current leader with term #2
+05:21:01.589 FLW:2 >> Thread for requests dispatch was interrupted
+05:21:01.590 FLW:2 >> Last heartbeat message: 3 ms ago
+05:21:02.091 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:21:02.094 FLW:2 >> Heartbeat from the current leader with term #2
+05:21:02.099 FLW:2 >> Thread for requests dispatch was interrupted
+05:21:02.100 FLW:2 >> Last heartbeat message: 6 ms ago
+05:21:02.596 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:21:02.598 FLW:2 >> Heartbeat from the current leader with term #2
+05:21:02.605 FLW:2 >> Thread for requests dispatch was interrupted
+05:21:02.606 FLW:2 >> Last heartbeat message: 8 ms ago
+05:21:03.104 FLW:2 >> Action ACTION_HEARTBEAT was received.
+05:21:03.106 FLW:2 >> Heartbeat from the current leader with term #2
+05:21:03.106 FLW:2 >> Thread for requests dispatch was interrupted
+05:21:03.106 FLW:2 >> Last heartbeat message: 0 ms ago
+05:21:04.614 FLW:2 >> Action ACTION_ELECTION was received.
+05:21:04.620 FLW:2 >> New node with UUID e1fac7c6-c79e-49c4-8849-4b429426f67f and IP 169.254.193.255 was discovered
+05:21:04.642 FLW:3 >> Sending ACTION_VOTE to UUID: e1fac7c6-c79e-49c4-8849-4b429426f67f
+05:21:04.650 FLW:3 >> S_FLW => S_FLW >> Election request from the higher term #3.
+05:21:04.673 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:04.690 FLW:3 >> Last heartbeat message: 70 ms ago
+05:21:04.705 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:04.707 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:04.714 FLW:3 >> It took 1 consecutive elections to achieve consensus.
+05:21:04.715 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:04.716 FLW:3 >> Last heartbeat message: 9 ms ago
+05:21:04.723 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:04.726 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:04.726 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:04.726 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:05.231 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:05.232 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:05.232 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:05.232 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:05.729 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:05.739 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:05.747 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:05.749 FLW:3 >> Last heartbeat message: 10 ms ago
+05:21:06.243 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:06.254 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:06.261 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:06.262 FLW:3 >> Last heartbeat message: 8 ms ago
+05:21:06.746 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:06.752 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:06.759 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:06.764 FLW:3 >> Last heartbeat message: 12 ms ago
+05:21:07.248 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:07.257 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:07.261 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:07.261 FLW:3 >> Last heartbeat message: 4 ms ago
+05:21:07.751 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:07.754 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:07.755 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:07.755 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:08.252 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:08.256 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:08.263 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:08.264 FLW:3 >> Last heartbeat message: 8 ms ago
+05:21:08.757 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:08.764 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:08.764 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:08.764 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:09.262 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:09.265 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:09.266 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:09.266 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:09.770 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:09.771 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:09.773 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:09.773 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:10.268 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:10.272 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:10.272 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:10.273 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:10.770 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:10.775 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:10.776 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:10.777 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:11.275 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:11.278 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:11.280 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:11.280 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:11.780 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:11.780 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:11.780 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:11.781 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:12.280 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:12.286 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:12.286 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:12.287 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:12.785 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:12.789 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:12.790 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:12.790 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:13.284 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:13.290 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:13.290 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:13.291 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:13.787 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:13.800 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:13.802 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:13.802 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:14.293 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:14.298 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:14.299 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:14.305 FLW:3 >> Last heartbeat message: 7 ms ago
+05:21:14.798 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:14.800 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:14.800 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:14.800 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:15.301 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:15.304 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:15.306 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:15.307 FLW:3 >> Last heartbeat message: 3 ms ago
+05:21:15.804 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:15.806 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:15.807 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:15.807 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:16.306 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:16.313 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:16.316 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:16.316 FLW:3 >> Last heartbeat message: 3 ms ago
+05:21:16.817 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:16.817 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:16.817 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:16.817 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:17.313 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:17.315 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:17.316 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:17.316 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:17.817 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:17.819 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:17.819 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:17.819 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:18.318 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:18.319 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:18.320 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:18.320 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:18.819 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:18.821 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:18.821 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:18.822 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:19.321 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:19.322 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:19.322 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:19.323 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:19.823 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:19.825 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:19.825 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:19.825 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:20.322 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:20.326 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:20.326 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:20.327 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:20.825 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:20.829 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:20.829 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:20.830 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:21.328 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:21.329 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:21.330 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:21.330 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:21.829 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:21.832 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:21.833 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:21.833 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:22.330 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:22.332 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:22.333 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:22.333 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:22.831 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:22.834 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:22.835 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:22.836 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:23.333 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:23.334 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:23.335 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:23.335 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:23.835 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:23.839 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:23.839 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:23.839 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:24.338 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:24.339 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:24.339 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:24.339 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:24.840 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:24.840 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:24.841 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:24.841 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:25.340 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:25.341 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:25.342 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:25.343 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:25.843 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:25.845 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:25.845 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:25.845 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:26.343 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:26.345 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:26.346 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:26.346 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:26.844 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:26.845 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:26.847 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:26.847 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:27.346 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:27.348 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:27.349 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:27.349 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:27.848 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:27.850 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:27.851 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:27.851 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:28.299 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:28.299 FLW:3 >> IGNORE: Heartbeat from the current leader with smaller term #2 was detected. It will receive heartbeat from the higher leader and will turn into the follower soon.
+05:21:28.313 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:28.321 FLW:3 >> S_FLW => S_FLW >> Heartbeat: Leader with the same term #3
+05:21:28.321 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:28.321 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:28.362 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:28.365 FLW:3 >> S_FLW => S_FLW >> Heartbeat: Leader with the same term #3
+05:21:28.366 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:28.366 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:28.860 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:28.860 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:28.861 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:28.861 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:29.361 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:29.362 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:29.362 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:29.362 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:29.861 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:29.865 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:29.866 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:29.867 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:30.370 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:30.371 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:30.371 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:30.371 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:30.872 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:30.873 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:30.873 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:30.873 FLW:3 >> Last heartbeat message: 0 ms ago
+05:21:31.371 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:31.378 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:31.380 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:31.380 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:31.878 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:31.883 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:31.884 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:31.884 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:32.385 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:32.397 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:32.399 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:32.399 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:32.884 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:32.887 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:32.888 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:32.889 FLW:3 >> Last heartbeat message: 2 ms ago
+05:21:33.389 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:33.391 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:33.391 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:33.392 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:33.893 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:33.894 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:33.895 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:33.895 FLW:3 >> Last heartbeat message: 1 ms ago
+05:21:34.392 FLW:3 >> Action ACTION_HEARTBEAT was received.
+05:21:34.400 FLW:3 >> Heartbeat from the current leader with term #3
+05:21:34.404 FLW:3 >> Thread for requests dispatch was interrupted
+05:21:34.405 FLW:3 >> Last heartbeat message: 5 ms ago
+05:21:35.923 FLW:3 >> Action ACTION_ELECTION was received.
+05:21:35.934 FLW:3 >> New node with UUID b9bacbae-6457-415e-81c1-21af9b9f4834 and IP 169.254.193.255 was discovered
+05:21:35.942 FLW:4 >> Sending ACTION_VOTE to UUID: b9bacbae-6457-415e-81c1-21af9b9f4834
+05:21:35.951 FLW:4 >> S_FLW => S_FLW >> Election request from the higher term #4.
+05:21:35.954 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:35.955 FLW:4 >> Last heartbeat message: 21 ms ago
+05:21:35.958 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:35.959 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:35.960 FLW:4 >> It took 1 consecutive elections to achieve consensus.
+05:21:35.961 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:35.962 FLW:4 >> Last heartbeat message: 4 ms ago
+05:21:35.968 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:35.969 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:35.970 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:35.971 FLW:4 >> Last heartbeat message: 2 ms ago
+05:21:36.470 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:36.470 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:36.471 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:36.471 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:36.974 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:36.975 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:36.975 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:36.975 FLW:4 >> Last heartbeat message: 0 ms ago
+05:21:37.474 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:37.476 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:37.477 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:37.477 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:37.979 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:37.983 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:37.985 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:37.985 FLW:4 >> Last heartbeat message: 2 ms ago
+05:21:38.480 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:38.483 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:38.484 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:38.484 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:38.984 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:38.985 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:38.985 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:38.985 FLW:4 >> Last heartbeat message: 0 ms ago
+05:21:39.482 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:39.484 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:39.485 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:39.486 FLW:4 >> Last heartbeat message: 2 ms ago
+05:21:39.980 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:39.981 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:39.982 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:39.983 FLW:4 >> Last heartbeat message: 2 ms ago
+05:21:40.490 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:40.490 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:40.491 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:40.491 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:40.992 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:40.992 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:40.992 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:40.992 FLW:4 >> Last heartbeat message: 0 ms ago
+05:21:41.489 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:41.490 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:41.490 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:41.491 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:41.992 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:41.993 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:41.993 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:41.993 FLW:4 >> Last heartbeat message: 0 ms ago
+05:21:42.495 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:42.499 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:42.500 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:42.500 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:43.000 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:43.000 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:43.000 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:43.001 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:43.497 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:43.499 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:43.500 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:43.501 FLW:4 >> Last heartbeat message: 2 ms ago
+05:21:44.002 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:44.002 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:44.003 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:44.003 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:44.502 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:44.506 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:44.508 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:44.509 FLW:4 >> Last heartbeat message: 2 ms ago
+05:21:45.006 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:45.007 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:45.008 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:45.008 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:45.335 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:45.336 FLW:4 >> IGNORE: Heartbeat from the current leader with smaller term #3 was detected. It will receive heartbeat from the higher leader and will turn into the follower soon.
+05:21:45.343 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:45.344 FLW:4 >> S_FLW => S_FLW >> Heartbeat: Leader with the same term #4
+05:21:45.345 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:45.346 FLW:4 >> Last heartbeat message: 2 ms ago
+05:21:45.506 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:45.508 FLW:4 >> S_FLW => S_FLW >> Heartbeat: Leader with the same term #4
+05:21:45.509 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:45.509 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:46.009 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:46.011 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:46.012 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:46.012 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:46.510 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:46.512 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:46.513 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:46.513 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:47.014 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:47.015 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:47.017 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:47.017 FLW:4 >> Last heartbeat message: 2 ms ago
+05:21:47.516 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:47.518 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:47.518 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:47.519 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:48.023 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:48.023 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:48.024 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:48.024 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:48.524 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:48.524 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:48.525 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:48.526 FLW:4 >> Last heartbeat message: 2 ms ago
+05:21:49.025 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:49.026 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:49.026 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:49.026 FLW:4 >> Last heartbeat message: 0 ms ago
+05:21:49.522 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:49.524 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:49.525 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:49.525 FLW:4 >> Last heartbeat message: 1 ms ago
+05:21:50.028 FLW:4 >> Action ACTION_HEARTBEAT was received.
+05:21:50.030 FLW:4 >> Heartbeat from the current leader with term #4
+05:21:50.030 FLW:4 >> Thread for requests dispatch was interrupted
+05:21:50.030 FLW:4 >> Last heartbeat message: 0 ms ago
+05:21:51.746 FLW:4 >> Action ACTION_ELECTION was received.
+05:21:51.765 FLW:5 >> Sending ACTION_VOTE to UUID: 19d1d002-3da5-476d-9aa1-eb816c794a7f
+05:21:51.771 FLW:5 >> S_FLW => S_FLW >> Election request from the higher term #5.
+05:21:51.775 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:51.778 FLW:5 >> Last heartbeat message: 24 ms ago
+05:21:51.781 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:51.784 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:51.785 FLW:5 >> It took 1 consecutive elections to achieve consensus.
+05:21:51.787 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:51.788 FLW:5 >> Last heartbeat message: 4 ms ago
+05:21:51.790 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:51.797 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:51.798 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:51.799 FLW:5 >> Last heartbeat message: 2 ms ago
+05:21:52.289 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:52.293 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:52.295 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:52.296 FLW:5 >> Last heartbeat message: 4 ms ago
+05:21:52.790 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:52.793 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:52.794 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:52.794 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:53.296 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:53.298 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:53.299 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:53.299 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:53.792 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:53.797 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:53.798 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:53.798 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:54.292 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:54.294 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:54.295 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:54.296 FLW:5 >> Last heartbeat message: 2 ms ago
+05:21:54.796 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:54.798 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:54.799 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:54.799 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:55.292 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:55.295 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:55.299 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:55.299 FLW:5 >> Last heartbeat message: 4 ms ago
+05:21:55.797 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:55.800 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:55.800 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:55.801 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:56.297 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:56.299 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:56.300 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:56.301 FLW:5 >> Last heartbeat message: 2 ms ago
+05:21:56.798 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:56.798 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:56.799 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:56.799 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:57.299 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:57.303 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:57.304 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:57.304 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:57.799 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:57.800 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:57.800 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:57.801 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:58.301 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:58.301 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:58.302 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:58.302 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:58.799 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:58.801 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:58.801 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:58.801 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:59.299 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:59.300 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:59.300 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:59.301 FLW:5 >> Last heartbeat message: 1 ms ago
+05:21:59.798 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:21:59.800 FLW:5 >> Heartbeat from the current leader with term #5
+05:21:59.800 FLW:5 >> Thread for requests dispatch was interrupted
+05:21:59.800 FLW:5 >> Last heartbeat message: 0 ms ago
+05:22:00.298 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:00.300 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:00.301 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:00.301 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:00.799 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:00.800 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:00.801 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:00.801 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:01.297 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:01.299 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:01.299 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:01.299 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:01.800 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:01.802 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:01.802 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:01.803 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:02.299 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:02.300 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:02.300 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:02.300 FLW:5 >> Last heartbeat message: 0 ms ago
+05:22:02.799 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:02.802 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:02.802 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:02.803 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:03.302 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:03.304 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:03.307 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:03.308 FLW:5 >> Last heartbeat message: 4 ms ago
+05:22:03.802 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:03.805 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:03.805 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:03.805 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:04.305 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:04.307 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:04.307 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:04.307 FLW:5 >> Last heartbeat message: 0 ms ago
+05:22:04.805 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:04.807 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:04.808 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:04.809 FLW:5 >> Last heartbeat message: 2 ms ago
+05:22:05.306 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:05.311 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:05.320 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:05.320 FLW:5 >> Last heartbeat message: 9 ms ago
+05:22:05.808 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:05.812 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:05.812 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:05.814 FLW:5 >> Last heartbeat message: 2 ms ago
+05:22:06.307 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:06.309 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:06.310 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:06.315 FLW:5 >> Last heartbeat message: 6 ms ago
+05:22:06.816 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:06.820 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:06.821 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:06.821 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:07.316 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:07.318 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:07.318 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:07.318 FLW:5 >> Last heartbeat message: 0 ms ago
+05:22:07.817 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:07.822 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:07.823 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:07.824 FLW:5 >> Last heartbeat message: 2 ms ago
+05:22:08.316 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:08.318 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:08.318 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:08.319 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:08.816 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:08.819 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:08.820 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:08.820 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:09.316 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:09.317 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:09.317 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:09.317 FLW:5 >> Last heartbeat message: 0 ms ago
+05:22:09.815 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:09.817 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:09.818 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:09.818 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:10.317 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:10.317 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:10.317 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:10.318 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:10.817 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:10.818 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:10.818 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:10.818 FLW:5 >> Last heartbeat message: 0 ms ago
+05:22:11.318 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:11.318 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:11.319 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:11.319 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:11.820 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:11.821 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:11.821 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:11.822 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:12.320 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:12.322 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:12.323 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:12.323 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:12.822 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:12.825 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:12.827 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:12.827 FLW:5 >> Last heartbeat message: 2 ms ago
+05:22:13.321 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:13.323 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:13.324 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:13.324 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:13.821 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:13.823 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:13.823 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:13.823 FLW:5 >> Last heartbeat message: 0 ms ago
+05:22:14.324 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:14.327 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:14.327 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:14.327 FLW:5 >> Last heartbeat message: 0 ms ago
+05:22:14.821 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:14.822 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:14.824 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:14.824 FLW:5 >> Last heartbeat message: 2 ms ago
+05:22:15.322 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:15.324 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:15.325 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:15.326 FLW:5 >> Last heartbeat message: 2 ms ago
+05:22:15.823 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:15.824 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:15.825 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:15.825 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:16.322 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:16.322 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:16.323 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:16.323 FLW:5 >> Last heartbeat message: 1 ms ago
+05:22:16.821 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:16.823 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:16.825 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:16.825 FLW:5 >> Last heartbeat message: 2 ms ago
+05:22:17.321 FLW:5 >> Action ACTION_HEARTBEAT was received.
+05:22:17.322 FLW:5 >> Heartbeat from the current leader with term #5
+05:22:17.325 FLW:5 >> Thread for requests dispatch was interrupted
+05:22:17.327 FLW:5 >> Last heartbeat message: 5 ms ago
+05:22:19.045 CND:6 >> Sending ACTION_ELECTION to IP: 224.0.0.2 and port: 2333
+05:22:19.046 CND:6 >> S_FLW => S_CND >> Timeout achieved
+05:22:19.047 CND:6 >> Last heartbeat message: 3 ms ago
+05:22:19.053 CND:6 >> Action ACTION_VOTE was received.
+05:22:19.060 CND:6 >> +1 vote >> 2 votes out of 10 (majority: 6)
+05:22:19.062 CND:6 >> Action ACTION_VOTE was received.
+05:22:19.063 CND:6 >> Thread for requests dispatch was interrupted
+05:22:19.063 CND:6 >> Last heartbeat message: 19 ms ago
+05:22:19.063 CND:6 >> New node with UUID e5e64677-ca3a-407f-84a3-fc3d19411b69 and IP 169.254.193.255 was discovered
+05:22:19.064 CND:6 >> +1 vote >> 3 votes out of 10 (majority: 6)
+05:22:19.065 CND:6 >> Thread for requests dispatch was interrupted
+05:22:19.065 CND:6 >> Last heartbeat message: 21 ms ago
+05:22:19.066 CND:6 >> Action ACTION_VOTE was received.
+05:22:19.066 CND:6 >> +1 vote >> 4 votes out of 10 (majority: 6)
+05:22:19.067 CND:6 >> Action ACTION_VOTE was received.
+05:22:19.067 CND:6 >> New node with UUID c52e52f2-6793-4896-bb01-82300ebd4827 and IP 169.254.193.255 was discovered
+05:22:19.069 CND:6 >> +1 vote >> 5 votes out of 10 (majority: 6)
+05:22:19.069 CND:6 >> Action ACTION_VOTE was received.
+05:22:19.069 CND:6 >> +1 vote >> 6 votes out of 10 (majority: 6)
+05:22:19.069 LDR:6 >> Thread for requests dispatch was interrupted
+05:22:19.070 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:19.071 LDR:6 >> S_CND => S_LDR >> 6 out of 10 total votes.
+05:22:19.074 LDR:6 >> It took 1 consecutive elections to achieve consensus.
+05:22:19.075 LDR:6 >> Action ACTION_VOTE was received.
+05:22:19.075 LDR:6 >> New node with UUID ed42a60f-b024-4aa1-a3af-d83f97f156fb and IP 169.254.193.255 was discovered
+05:22:19.077 LDR:6 >> IGNORE: Node is already in the state S_LDR and doesn't need votes anymore.
+05:22:19.077 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:19.078 LDR:6 >> Action ACTION_VOTE was received.
+05:22:19.078 LDR:6 >> IGNORE: Node is already in the state S_LDR and doesn't need votes anymore.
+05:22:19.078 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:19.079 LDR:6 >> Thread for requests dispatch was interrupted
+05:22:19.079 LDR:6 >> Last heartbeat message: 3 ms ago
+05:22:19.576 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:19.577 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:20.076 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:20.077 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:20.577 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:20.578 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:21.078 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:21.079 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:21.578 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:21.580 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:22.078 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:22.080 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:22.578 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:22.580 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:23.078 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:23.080 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:23.578 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:23.580 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:24.090 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:24.091 LDR:6 >> Last heartbeat message: 10 ms ago
+05:22:24.581 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:24.582 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:25.082 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:25.083 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:25.583 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:25.585 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:26.083 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:26.084 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:26.584 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:26.586 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:27.084 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:27.085 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:27.588 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:27.590 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:28.089 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:28.091 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:28.589 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:28.590 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:29.091 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:29.092 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:29.591 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:29.593 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:30.091 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:30.092 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:30.592 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:30.593 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:31.093 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:31.094 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:31.594 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:31.595 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:32.094 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:32.095 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:32.595 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:32.596 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:33.097 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:33.098 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:33.598 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:33.600 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:34.103 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:34.105 LDR:6 >> Last heartbeat message: 3 ms ago
+05:22:34.602 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:34.603 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:35.103 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:35.105 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:35.603 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:35.604 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:36.103 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:36.105 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:36.603 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:36.605 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:37.103 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:37.104 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:37.609 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:37.610 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:38.110 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:38.111 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:38.610 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:38.612 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:39.111 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:39.112 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:39.611 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:39.612 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:40.112 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:40.113 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:40.613 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:40.614 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:41.114 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:41.116 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:41.615 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:41.616 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:42.116 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:42.118 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:42.616 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:42.618 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:43.117 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:43.118 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:43.618 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:43.619 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:44.120 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:44.122 LDR:6 >> Last heartbeat message: 3 ms ago
+05:22:44.619 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:44.621 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:45.121 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:45.122 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:45.622 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:45.623 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:46.122 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:46.124 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:46.622 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:46.624 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:47.123 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:47.125 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:47.624 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:47.625 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:48.124 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:48.125 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:48.625 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:48.626 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:49.126 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:49.127 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:49.626 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:49.628 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:50.126 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:50.127 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:50.627 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:50.628 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:51.128 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:51.129 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:51.629 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:51.631 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:52.131 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:52.133 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:52.631 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:52.633 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:53.131 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:53.133 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:53.631 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:53.633 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:54.132 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:54.134 LDR:6 >> Last heartbeat message: 3 ms ago
+05:22:54.631 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:54.632 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:55.132 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:55.133 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:55.634 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:55.636 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:56.134 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:56.135 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:56.635 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:56.637 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:57.135 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:57.136 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:57.636 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:57.638 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:58.136 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:58.137 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:58.637 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:58.638 LDR:6 >> Last heartbeat message: 1 ms ago
+05:22:59.139 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:59.140 LDR:6 >> Last heartbeat message: 2 ms ago
+05:22:59.639 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:22:59.640 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:00.141 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:00.143 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:00.645 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:00.647 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:01.145 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:01.146 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:01.646 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:01.647 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:02.147 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:02.149 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:02.648 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:02.650 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:03.148 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:03.150 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:03.651 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:03.653 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:04.152 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:04.153 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:04.652 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:04.654 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:05.153 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:05.155 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:05.654 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:05.656 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:06.155 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:06.159 LDR:6 >> Last heartbeat message: 4 ms ago
+05:23:06.656 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:06.658 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:07.156 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:07.158 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:07.656 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:07.657 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:08.156 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:08.157 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:08.657 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:08.658 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:09.159 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:09.161 LDR:6 >> Last heartbeat message: 3 ms ago
+05:23:09.658 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:09.660 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:10.158 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:10.160 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:10.658 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:10.659 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:11.159 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:11.160 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:11.660 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:11.661 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:12.160 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:12.162 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:12.660 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:12.661 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:13.162 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:13.163 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:13.663 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:13.664 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:14.164 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:14.166 LDR:6 >> Last heartbeat message: 3 ms ago
+05:23:14.663 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:14.665 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:15.163 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:15.166 LDR:6 >> Last heartbeat message: 3 ms ago
+05:23:15.664 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:15.666 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:16.165 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:16.167 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:16.665 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:16.666 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:17.166 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:17.168 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:17.666 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:17.668 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:18.166 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:18.170 LDR:6 >> Last heartbeat message: 4 ms ago
+05:23:18.666 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:18.668 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:19.167 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:19.168 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:19.669 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:19.670 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:20.170 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:20.172 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:20.678 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:20.680 LDR:6 >> Last heartbeat message: 2 ms ago
+05:23:21.178 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:21.179 LDR:6 >> Last heartbeat message: 1 ms ago
+05:23:21.679 LDR:6 >> Sending ACTION_HEARTBEAT to IP: 224.0.0.2 and port: 2333
+05:23:21.680 LDR:6 >> Last heartbeat message: 1 ms ago
