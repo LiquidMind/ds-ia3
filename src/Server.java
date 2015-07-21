@@ -19,6 +19,7 @@ public class Server {
   
   static int numberOfNodes = 0;
   
+  // to select density of log messages
   static int logLevel = 0;
   
   // variable to make log synchronized on System.out
@@ -51,7 +52,7 @@ public class Server {
     log(0, "Local address is: " + localIP);
     
     node.connect();
-    
+
     // run thread that processes network requests and responses
     node.startRequestsReceiver();
     node.startRequestsDispatcher();
@@ -83,7 +84,11 @@ public class Server {
     if (logLevel > Server.logLevel)
       return;
     
-    message = Node.dateFormatter.format(Node.localTimeMillis()) + " " + node.stateTo3LString() + ":" + node.term + " >> " + message + "\n";
+    if (node == null) {
+      message = Node.dateFormatter.format(Node.localTimeMillis()) + " >> " + message + "\n";
+    } else {
+      message = Node.dateFormatter.format(Node.localTimeMillis()) + " " + node.stateTo3LString() + ":" + node.term + " >> " + message + "\n";
+    }
 
     //message += "Term #" + node.term + "; Leader: " + node.leader + "\n"; 
             

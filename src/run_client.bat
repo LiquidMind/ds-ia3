@@ -1,1 +1,1 @@
-java -cp "D:\Projects\GitHub\ds-ia3\bin;D:\Projects\GitHub\ds-ia3\lib\jcurses.jar" Client
+java -cp ".;../lib/jcurses.jar;../lib/commons-lang3-3.4.jar;../bin" Client 224.0.0.2 2333 "../log/client.txt"
